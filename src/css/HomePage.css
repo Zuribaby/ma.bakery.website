@@ -1,0 +1,43 @@
+/* .body {
+  margin: 0px;
+}
+
+.home {
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+  background: url(../assets/pexels-davideibiza-1739748.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.home .content {
+  max-width: 50rem;
+}
+
+.home .content h3 {
+  font-size: 6rem;
+  color: #333;
+}
+
+.home .content span {
+  font-size: 3.5rem;
+  color: var(--pink);
+  padding: 1rem 0;
+  line-height: 1.5;
+}
+
+.home .content p {
+  font-size: 2rem;
+  color: #999;
+  padding: 1rem 0;
+  line-height: 1.5;
+}
+.home .btn {
+  font-size: 16px;
+  color: var(--pink);
+  font-weight: bold;
+  border: 1px solid#e84393;
+  border-radius: 15px;
+  padding: 3px;
+} */
